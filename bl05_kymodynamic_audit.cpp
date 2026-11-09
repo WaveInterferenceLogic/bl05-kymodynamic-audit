@@ -2,7 +2,7 @@
  * @file bl05_kymodynamic_audit.cpp
  * @brief J-PARC BL05 Kymodynamic Velocity-Stratified Audit Pipeline (Version 1.0.0)
  * @author Justin L. Cameron
- * @affiliation Wave Interference Logic Research Consortium
+ * @affiliation Cameron Bros Fabrication Research Consortium
  * @doi 10.5281/zenodo.
  *
  * @description
