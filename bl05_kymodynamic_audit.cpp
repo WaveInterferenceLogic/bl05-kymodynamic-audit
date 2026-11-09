@@ -3,7 +3,7 @@
  * @brief J-PARC BL05 Kymodynamic Velocity-Stratified Audit Pipeline (Version 1.0.0)
  * @author Justin L. Cameron
  * @affiliation Wave Interference Logic Research Consortium
- * @doi 10.5281/zenodo.10839391
+ * @doi 10.5281/zenodo.
  *
  * @description
  * This ROOT/C++ macro evaluates the J-PARC BL05 ultracold neutron lifetime data.
